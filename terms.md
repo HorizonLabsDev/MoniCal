@@ -1,10 +1,10 @@
 # Nutzungsbedingungen / Terms of Use
 
 **Stand:** 29.05.2026
-**Verantwortlicher:** HorizonLabs, horizonlabs.dev@gmail.com
+**Verantwortlicher:** Horizon Labs, horizonlabs.dev@gmail.com
 
 ## 1. Geltungsbereich
-Diese Nutzungsbedingungen gelten für die Verwendung der iOS-App MoniCal, entwickelt von HorizonLabs.
+Diese Nutzungsbedingungen gelten für die Verwendung der iOS-App MoniCal, entwickelt von Horizon Labs.
 
 ## 2. Nutzung der App
 MoniCal ist ein persönliches Finanz-Planungswerkzeug. Du nutzt die App auf eigene Verantwortung. Die App ersetzt keine professionelle Finanzberatung.
@@ -25,17 +25,17 @@ Design, Code und alle Inhalte der App sind urheberrechtlich geschützt.
 Wir behalten uns vor, diese Bedingungen zu aktualisieren. Wesentliche Änderungen werden in der App kommuniziert.
 
 ## 7. Kontakt
-HorizonLabs — horizonlabs.dev@gmail.com
+Horizon Labs — horizonlabs.dev@gmail.com
 
 ---
 
 ## Terms of Use (English)
 
 **Last updated:** 29.05.2026
-**Controller:** HorizonLabs, horizonlabs.dev@gmail.com
+**Controller:** Horizon Labs, horizonlabs.dev@gmail.com
 
 ## 1. Scope
-These Terms of Use apply to the use of the iOS app MoniCal, developed by HorizonLabs.
+These Terms of Use apply to the use of the iOS app MoniCal, developed by Horizon Labs.
 
 ## 2. Use of the app
 MoniCal is a personal financial planning tool. You use the app at your own responsibility. The app does not replace professional financial advice.
