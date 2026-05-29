@@ -1,7 +1,7 @@
 # Datenschutzerklärung / Privacy Policy
 
 **Stand:** 29.05.2026
-**Verantwortlicher:** HorizonLabs, horizonlabs.dev@gmail.com
+**Verantwortlicher:** Horizon Labs, horizonlabs.dev@gmail.com
 
 ## 1. Grundsatz
 MoniCal erhebt keine personenbezogenen Daten. Alle von dir eingegebenen Daten (Einträge, Kategorien, Einstellungen) werden ausschließlich lokal auf deinem Gerät gespeichert und nicht an uns oder Dritte übertragen.
@@ -33,7 +33,7 @@ Wir behalten uns vor, diese Datenschutzerklärung zu aktualisieren. Die jeweils 
 ## Privacy Policy (English)
 
 **Last updated:** 29.05.2026
-**Controller:** HorizonLabs, horizonlabs.dev@gmail.com
+**Controller:** Horizon Labs, horizonlabs.dev@gmail.com
 
 ## 1. Principle
 MoniCal does not collect personal data. All data you enter (entries, categories, settings) is stored exclusively on your device and is not transmitted to us or any third party.
