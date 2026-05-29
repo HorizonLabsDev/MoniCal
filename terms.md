@@ -56,5 +56,5 @@ The design, code, and all content of the app are protected by copyright.
 We reserve the right to update these terms. Material changes will be communicated within the app.
 
 ## 7. Contact
-HorizonLabs — horizonlabs.dev@gmail.com
+Horizon Labs — horizonlabs.dev@gmail.com
 
