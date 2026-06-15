@@ -37,4 +37,23 @@ Horizon Labs — horizonlabs.dev@gmail.com
 These Terms of Use apply to the use of the iOS app MoniCal, developed by Horizon Labs.
 
 ## 2. Use of the app
-MoniCal is a personal financial planning
+MoniCal is a personal financial planning tool. You use the app at your own responsibility. The app does not replace professional financial advice.
+
+## 3. MoniCal Pro (Subscription)
+MoniCal Pro is a monthly subscription at €1.29 per month (VAT included; price may vary by region). New subscribers receive a 14-day free trial.
+
+- The subscription renews automatically unless cancelled at least 24 hours before the end of the trial period or the current billing period.
+- Cancellation is done through your Apple ID settings on your device.
+- For issues with your purchase, please contact Apple Support.
+
+## 4. Disclaimer
+The app is provided "as is." We accept no liability for data loss, calculation errors, or other damages arising from use.
+
+## 5. Intellectual property
+The design, code, and all content of the app are protected by copyright.
+
+## 6. Changes
+We reserve the right to update these terms. Material changes will be communicated within the app.
+
+## 7. Contact
+Horizon Labs — horizonlabs.dev@gmail.com
