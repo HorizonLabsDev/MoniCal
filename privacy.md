@@ -1,17 +1,17 @@
 # Datenschutzerklärung / Privacy Policy
 
-**Stand:** 29.05.2026
+**Stand:** 26.07.2026
 **Verantwortlicher:** Horizon Labs, horizonlabs.dev@gmail.com
 
 ## 1. Grundsatz
-MoniCal erhebt keine personenbezogenen Daten. Alle von dir eingegebenen Daten (Einträge, Kategorien, Einstellungen) werden ausschließlich lokal auf deinem Gerät gespeichert und nicht an uns oder Dritte übertragen.
+MoniCal erhebt keine personenbezogenen Daten. Alle von dir eingegebenen Daten (Einträge, Kategorien, Budgets, Einstellungen) werden auf deinem Gerät gespeichert und über deinen persönlichen iCloud-Account synchronisiert. Sie werden niemals an uns oder Dritte übertragen.
 
 ## 2. Daten auf deinem Gerät
-Die App speichert folgende Daten lokal:
-- Finanzdaten, die du selbst eingibst (Einträge, Beträge, Kategorien, Notizen)
+Die App speichert folgende Daten lokal und synchronisiert sie über deinen persönlichen iCloud-Account:
+- Finanzdaten, die du selbst eingibst (Einträge, Beträge, Kategorien, Budgets, Notizen)
 - App-Einstellungen (Sprache, Währung, Farbschema)
 
-Diese Daten verlassen dein Gerät zu keinem Zeitpunkt über unsere App.
+Diese Daten werden ausschließlich mit deinem eigenen iCloud-Account synchronisiert und zu keinem Zeitpunkt an uns oder Dritte übertragen.
 
 ## 3. In-App-Käufe (MoniCal Pro)
 Wenn du MoniCal Pro abonnierst, wird die Zahlung ausschließlich über Apple verarbeitet. Wir erhalten dabei keine Zahlungsdaten. Es gelten die Datenschutzrichtlinien von Apple: https://www.apple.com/de/privacy/
@@ -32,18 +32,18 @@ Wir behalten uns vor, diese Datenschutzerklärung zu aktualisieren. Die jeweils 
 
 ## Privacy Policy (English)
 
-**Last updated:** 29.05.2026
+**Last updated:** 26.07.2026
 **Controller:** Horizon Labs, horizonlabs.dev@gmail.com
 
 ## 1. Principle
-MoniCal does not collect personal data. All data you enter (entries, categories, settings) is stored exclusively on your device and is not transmitted to us or any third party.
+MoniCal does not collect personal data. All data you enter (entries, categories, budgets, settings) is stored on your device and synced via your personal iCloud account. It is never transmitted to us or any other third party.
 
 ## 2. Data on your device
-The app stores the following data locally:
-- Financial data you enter (entries, amounts, categories, notes)
+The app stores the following data locally and syncs it via your personal iCloud account:
+- Financial data you enter (entries, amounts, categories, budgets, notes)
 - App settings (language, currency, color scheme)
 
-This data never leaves your device through our app.
+This data is only synced with your own iCloud account and is never transmitted to us or any third party.
 
 ## 3. In-App Purchases (MoniCal Pro)
 If you subscribe to MoniCal Pro, payment is processed exclusively by Apple. We do not receive any payment data. Apple's privacy policy applies: https://www.apple.com/privacy/
@@ -59,4 +59,3 @@ Since we do not collect or process personal data, no rights of access, deletion,
 
 ## 7. Changes
 We reserve the right to update this privacy policy. The current version is always available in the app and at https://horizonlabsdev.github.io/MoniCal/privacy.
-
