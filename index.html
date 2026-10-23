@@ -27,7 +27,7 @@ nav a:hover { border-color:var(--brand-ink); }
 </style>
 <script>
 (function () {
-  var ok = ['de', 'en', 'fr', 'it', 'es', 'el'], langs = navigator.languages || [navigator.language || 'de'], pick = 'de';
+  var ok = ["de", "en", "fr", "it", "es", "el"], langs = navigator.languages || [navigator.language || 'de'], pick = 'de';
   for (var i = 0; i < langs.length; i++) {
     var c = String(langs[i]).slice(0, 2).toLowerCase();
     if (ok.indexOf(c) > -1) { pick = c; break; }

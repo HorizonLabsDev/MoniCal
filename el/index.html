@@ -6,9 +6,8 @@
 <meta name="color-scheme" content="light dark">
 <title>MoniCal – Οικονομικό ημερολόγιο για iPhone</title>
 <meta name="description" content="Το MoniCal δείχνει έσοδα, έξοδα και συνδρομές σε ένα ημερολόγιο. Με υπενθυμίσεις, προϋπολογισμούς και στατιστικά. Χωρίς λογαριασμό, τα δεδομένα σου μένουν σε σένα.">
-<meta name="apple-itunes-app" content="app-id=6774941169">
 <meta property="og:title" content="MoniCal – Οικονομικό ημερολόγιο για iPhone">
-<meta property="og:description" content="Λογαριασμοί και συνδρομές. Σαν ημερολόγιο.">
+<meta property="og:description" content="Το MoniCal δείχνει έσοδα, έξοδα και συνδρομές σε ένα ημερολόγιο. Με υπενθυμίσεις, προϋπολογισμούς και στατιστικά. Χωρίς λογαριασμό, τα δεδομένα σου μένουν σε σένα.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://horizonlabsdev.github.io/MoniCal/el/">
 <link rel="canonical" href="https://horizonlabsdev.github.io/MoniCal/el/">
@@ -170,6 +169,7 @@ footer a { color: var(--muted); }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
 
+/* Sprachumschalter, Kontakt */
 .langs { display: flex; gap: 4px; font-size: .85rem; font-weight: 600; }
 .langs a { color: var(--muted); text-decoration: none; padding: 4px 7px; border-radius: 8px; }
 .langs a:hover { color: var(--ink); }
@@ -177,7 +177,35 @@ footer a { color: var(--muted); }
 .contact { color: var(--muted); }
 footer .langs { margin-left: -7px; }
 @media (max-width: 860px) { .nav .langs { display: none; } }
+
+/* Blog */
+.post { max-width: 720px; margin: 0 auto; padding-block: 24px 72px; }
+.post .meta { color: var(--muted); font-size: .92rem; margin: 14px 0 28px; }
+.post h1 { font-size: clamp(2rem, 5.4vw, 3.2rem); }
+.post h2 { font-size: clamp(1.4rem, 3.2vw, 1.85rem); margin-top: 44px; }
+.post h3.q { margin-top: 26px; }
+.post p, .post li { font-size: 1.08rem; line-height: 1.7; }
+.post p { margin-top: 16px; color: var(--ink); }
+.post ul, .post ol { padding-left: 1.3em; margin: 14px 0 0; display: grid; gap: 8px; }
+.post .lead { font-size: 1.22rem; color: var(--muted); margin-top: 0; }
+.box { margin-top: 44px; background: var(--surface); border: 1.5px solid var(--line); border-radius: 20px; padding: 26px; display: grid; gap: 14px; justify-items: start; }
+.box h3 { font-size: 1.3rem; }
+.box p { margin: 0; color: var(--muted); }
+.crumbs { font-size: .9rem; color: var(--muted); }
+.crumbs a { color: var(--muted); }
+.list { display: grid; gap: 18px; margin-top: 28px; }
+.card { display: grid; gap: 8px; background: var(--surface); border: 1.5px solid var(--line); border-radius: 20px; padding: 24px; text-decoration: none; color: var(--ink); }
+.card:hover { border-color: var(--brand); }
+.card h2 { font-size: 1.45rem; margin: 0; }
+.card p { margin: 0; color: var(--muted); }
+.card .meta { margin: 0; font-size: .88rem; }
+.post-langs { margin-top: 36px; }
+
+/* Griechisch: Bricolage Grotesque hat keine griechischen Zeichen, daher eine Systemschrift mit Griechisch-Unterstützung */
+html[lang="el"] { --display: "Avenir Next", "Helvetica Neue", system-ui, sans-serif; }
+html[lang="el"] h1, html[lang="el"] h2, html[lang="el"] .plan .price { font-weight: 700; }
 </style>
+<meta name="apple-itunes-app" content="app-id=6774941169">
 </head>
 <body>
 <div class="wrap">
@@ -187,6 +215,7 @@ footer .langs { margin-left: -7px; }
       <a href="#funktionen">Λειτουργίες</a>
       <a href="#preise">Pro</a>
       <a href="#faq">Ερωτήσεις</a>
+      <a href="blog/">Blog</a>
       <nav class="langs" aria-label="Language"><a href="../de/" hreflang="de" lang="de">DE</a><a href="../en/" hreflang="en" lang="en">EN</a><a href="../fr/" hreflang="fr" lang="fr">FR</a><a href="../it/" hreflang="it" lang="it">IT</a><a href="../es/" hreflang="es" lang="es">ES</a><a href="./" hreflang="el" lang="el" aria-current="true">EL</a></nav>
       <a class="btn btn-primary btn-small" href="https://apps.apple.com/app/apple-store/id6774941169?pt=128971192&amp;ct=monical-budget-landingpage&amp;mt=8" target="_blank" rel="noopener">Λήψη</a>
     </div>
@@ -259,23 +288,9 @@ footer .langs { margin-left: -7px; }
       <p>Οι νέοι συνδρομητές δοκιμάζουν το Pro δωρεάν για 7 ημέρες. Μπορείς να ακυρώσεις οποτεδήποτε από τις Ρυθμίσεις του iOS.</p>
     </div>
     <div class="plans">
-      <article class="plan">
-        <h3>Δωρεάν</h3>
-        <p class="price">0 €</p>
-        <ul><li>Ημερολόγιο με μηνιαία προβολή και λίστα</li><li>Επαναλαμβανόμενες καταχωρίσεις και κατηγορίες</li><li>3 υπενθυμίσεις</li><li>1 προϋπολογισμός</li></ul>
-      </article>
-      <article class="plan featured">
-        <h3>Pro μηνιαίο</h3>
-        <p class="price">2,99 € <small>/ μήνα</small></p>
-        <p class="note">7 ημέρες δωρεάν δοκιμή</p>
-        <ul><li>Όλα όσα έχει το δωρεάν</li><li>Απεριόριστες υπενθυμίσεις και προϋπολογισμοί</li><li>Στατιστικά και ετήσια προβολή</li><li>Δυναμικό υπόλοιπο</li></ul>
-      </article>
-      <article class="plan">
-        <h3>Pro Lifetime</h3>
-        <p class="price">34,99 € <small>εφάπαξ</small></p>
-        <p class="note">Πληρώνεις μία φορά, το έχεις για πάντα</p>
-        <ul><li>Όλες οι λειτουργίες Pro</li><li>Χωρίς συνδρομή, χωρίς ανανέωση</li><li>Στηρίζει την εξέλιξη της εφαρμογής</li></ul>
-      </article>
+      <article class="plan"><h3>Δωρεάν</h3><p class="price">0 €</p><ul><li>Ημερολόγιο με μηνιαία προβολή και λίστα</li><li>Επαναλαμβανόμενες καταχωρίσεις και κατηγορίες</li><li>3 υπενθυμίσεις</li><li>1 προϋπολογισμός</li></ul></article>
+      <article class="plan featured"><h3>Pro μηνιαίο</h3><p class="price">2,99 € <small>/ μήνα</small></p><p class="note">7 ημέρες δωρεάν δοκιμή</p><ul><li>Όλα όσα έχει το δωρεάν</li><li>Απεριόριστες υπενθυμίσεις και προϋπολογισμοί</li><li>Στατιστικά και ετήσια προβολή</li><li>Δυναμικό υπόλοιπο</li></ul></article>
+      <article class="plan"><h3>Pro Lifetime</h3><p class="price">34,99 € <small>εφάπαξ</small></p><p class="note">Πληρώνεις μία φορά, το έχεις για πάντα</p><ul><li>Όλες οι λειτουργίες Pro</li><li>Χωρίς συνδρομή, χωρίς ανανέωση</li><li>Στηρίζει την εξέλιξη της εφαρμογής</li></ul></article>
     </div>
   </section>
 
@@ -311,7 +326,7 @@ footer .langs { margin-left: -7px; }
       <a href="https://horizonlabsdev.github.io/MoniCal/terms.html">Όροι χρήσης</a>
       <a href="https://horizonlabsdev.github.io/MoniCal/privacy.html">Απόρρητο</a>
       <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Apple EULA</a>
-      <a href="mailto:horizonlabs.dev@gmail.com">Επικοινωνία</a>
+      <a href="mailto:horizonlabs.dev@gmail.com">Επικοινωνία</a><a href="blog/">Blog</a>
     </nav>
     <nav class="langs" aria-label="Language"><a href="../de/" hreflang="de" lang="de">DE</a><a href="../en/" hreflang="en" lang="en">EN</a><a href="../fr/" hreflang="fr" lang="fr">FR</a><a href="../it/" hreflang="it" lang="it">IT</a><a href="../es/" hreflang="es" lang="es">ES</a><a href="./" hreflang="el" lang="el" aria-current="true">EL</a></nav>
   </footer>
