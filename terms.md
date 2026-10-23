@@ -9,7 +9,7 @@ Diese Nutzungsbedingungen gelten für die Verwendung der iOS-App MoniCal, entwic
 MoniCal ist ein persönliches Finanz-Planungswerkzeug. Du nutzt die App auf eigene Verantwortung. Die App ersetzt keine professionelle Finanzberatung.
 
 ## 3. MoniCal Pro (Abo & Lifetime)
-MoniCal Pro ist wahlweise als monatlich kündbares Abonnement oder als einmaliger Lifetime-Kauf erhältlich, jeweils zum im App Store zum Zeitpunkt des Kaufs angezeigten Preis (inkl. MwSt., kann je nach Region variieren). Neue Abonnenten erhalten einen kostenlosen Testzeitraum von 14 Tagen.
+MoniCal Pro ist wahlweise als monatlich kündbares Abonnement oder als einmaliger Lifetime-Kauf erhältlich, jeweils zum im App Store zum Zeitpunkt des Kaufs angezeigten Preis (inkl. MwSt., kann je nach Region variieren). Neue Abonnenten erhalten einen kostenlosen Testzeitraum von 7 Tagen.
 
 - Bestehende Abonnenten behalten den zum Zeitpunkt ihres Abschlusses geltenden Preis, solange ihr Abo ununterbrochen aktiv bleibt.
 - Das Abo verlängert sich automatisch, sofern es nicht mindestens 24 Stunden vor Ende des Testzeitraums oder des jeweiligen Abrechnungszeitraums gekündigt wird.
@@ -42,7 +42,7 @@ These Terms of Use apply to the use of the iOS app MoniCal, developed by Horizon
 MoniCal is a personal financial planning tool. You use the app at your own responsibility. The app does not replace professional financial advice.
 
 ## 3. MoniCal Pro (Subscription & Lifetime)
-MoniCal Pro is available as a monthly, cancellable subscription or as a one-time lifetime purchase, each at the price shown in the App Store at the time of purchase (VAT included; price may vary by region). New subscribers receive a 14-day free trial.
+MoniCal Pro is available as a monthly, cancellable subscription or as a one-time lifetime purchase, each at the price shown in the App Store at the time of purchase (VAT included; price may vary by region). New subscribers receive a 7-day free trial.
 
 - Existing subscribers keep the price that applied when they subscribed, for as long as their subscription remains active without interruption.
 - The subscription renews automatically unless cancelled at least 24 hours before the end of the trial period or the current billing period.
