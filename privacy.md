@@ -1,7 +1,7 @@
 # Datenschutzerklärung / Privacy Policy
 
 **Stand:** 01.10.2026
-**Verantwortlicher:** Horizon Labs, horizonlabs.dev@gmail.com
+**Verantwortlicher:** Jérémy Lecoq (Marke: Horizon Labs), Arndtstraße 9, 74074 Heilbronn, Deutschland, horizonlabs.dev@gmail.com
 
 ## 1. Grundsatz
 MoniCal erhebt keine Finanzdaten und keine Nutzungsdaten. Alle von dir eingegebenen Daten (Einträge, Kategorien, Budgets, Einstellungen) werden auf deinem Gerät gespeichert und über deinen persönlichen iCloud-Account synchronisiert. Sie werden niemals an uns oder Dritte übertragen. Die einzige Ausnahme ist die optionale Community-Funktion „Spartipps" (siehe Abschnitt 5). Sie ist von deinen Finanzdaten vollständig getrennt.
@@ -42,7 +42,16 @@ Falls du der Übermittlung von Absturzberichten in deinen iOS-Einstellungen zuge
 ## 7. Deine Rechte
 Für deine Finanzdaten, die nur auf deinem Gerät und in deinem iCloud-Account liegen, fallen uns gegenüber keine Auskunfts-, Lösch- oder Widerspruchsrechte an. Für die Community-Funktion hast du die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch nach der DSGVO sowie das Recht auf Beschwerde bei einer Aufsichtsbehörde. Da die Konten anonym sind, können wir Beiträge nur zuordnen, wenn du uns den Text des Beitrags nennst. Schreib uns dafür an: horizonlabs.dev@gmail.com
 
-## 8. Änderungen
+## 8. Website (Landingpage und Blog)
+Dieser Abschnitt gilt für den Besuch unserer Website (Landingpage und Blog) unter https://horizonlabsdev.github.io/monical-site/, nicht für die App.
+- **Hosting:** Die Website wird über GitHub Pages bereitgestellt (GitHub Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA). Beim Aufruf verarbeitet GitHub technisch notwendige Daten in Server-Protokollen, insbesondere deine IP-Adresse, Datum und Uhrzeit, die aufgerufene Seite und Browserinformationen. Rechtsgrundlage ist unser berechtigtes Interesse an einer sicheren und stabilen Bereitstellung der Website (Art. 6 Abs. 1 lit. f DSGVO). Dabei kann eine Übermittlung in die USA stattfinden. Mehr dazu in der Datenschutzerklärung von GitHub: https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement
+- **Cookies und Tracking:** Auf der Website setzen wir keine Cookies und keine Analyse- oder Werbedienste ein.
+- **Schriften:** Die verwendeten Schriften liegen auf demselben Server. Es werden keine Schriften von Drittanbietern nachgeladen.
+- **Kontakt per E-Mail:** Wenn du uns schreibst, verarbeiten wir deine E-Mail-Adresse und den Inhalt deiner Nachricht, um sie zu beantworten (Art. 6 Abs. 1 lit. b oder f DSGVO). Wir löschen die Daten, wenn die Anfrage erledigt ist und keine Aufbewahrungspflichten bestehen.
+- **Links zum App Store:** Die Buttons führen zum App Store von Apple. Ab dem Klick gelten die Datenschutzbestimmungen von Apple. Die Links enthalten eine Kampagnenkennung, damit wir in App Store Connect sehen, wie viele Downloads über die Website kommen. Wir erhalten dazu nur zusammengefasste Zahlen von Apple.
+- **Deine Rechte:** Dir stehen die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch zu sowie das Recht auf Beschwerde bei einer Aufsichtsbehörde, in Baden-Württemberg beim Landesbeauftragten für den Datenschutz und die Informationsfreiheit. Schreib uns dafür an: horizonlabs.dev@gmail.com
+
+## 9. Änderungen
 Wir behalten uns vor, diese Datenschutzerklärung zu aktualisieren. Die jeweils aktuelle Version ist in der App und unter https://horizonlabsdev.github.io/MoniCal/privacy abrufbar.
 
 ---
@@ -50,7 +59,7 @@ Wir behalten uns vor, diese Datenschutzerklärung zu aktualisieren. Die jeweils 
 ## Privacy Policy (English)
 
 **Last updated:** 01.10.2026
-**Controller:** Horizon Labs, horizonlabs.dev@gmail.com
+**Controller:** Jérémy Lecoq (brand: Horizon Labs), Arndtstraße 9, 74074 Heilbronn, Germany, horizonlabs.dev@gmail.com
 
 ## 1. Principle
 MoniCal does not collect financial data or usage data. All data you enter (entries, categories, budgets, settings) is stored on your device and synced via your personal iCloud account. It is never transmitted to us or any other third party. The only exception is the optional community feature "Tips" (see section 5). It is completely separate from your financial data.
@@ -91,5 +100,14 @@ If you have consented to crash report submission in your iOS settings, anonymise
 ## 7. Your rights
 For your financial data, which is stored only on your device and in your iCloud account, no rights of access, deletion, or objection arise against us. For the community feature you have the rights of access, rectification, erasure, restriction of processing and objection under the GDPR, and the right to lodge a complaint with a supervisory authority. Because accounts are anonymous, we can only identify posts if you tell us the text of the post. Contact us at: horizonlabs.dev@gmail.com
 
-## 8. Changes
+## 8. Website (landing page and blog)
+This section applies to visiting our website (landing page and blog) at https://horizonlabsdev.github.io/monical-site/, not to the app.
+- **Hosting:** The website is provided via GitHub Pages (GitHub Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA). When you visit, GitHub processes technically necessary data in server logs, in particular your IP address, date and time, the page requested and browser information. The legal basis is our legitimate interest in a secure and stable delivery of the website (Art. 6(1)(f) GDPR). This may involve a transfer to the USA. See GitHub's privacy statement: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+- **Cookies and tracking:** We do not use cookies, analytics or advertising services on the website.
+- **Fonts:** The fonts used are served from the same server. No fonts are loaded from third parties.
+- **Contact by email:** If you write to us, we process your email address and the content of your message to reply (Art. 6(1)(b) or (f) GDPR). We delete the data once the request is resolved and no retention obligations apply.
+- **Links to the App Store:** The buttons lead to Apple's App Store. From the click, Apple's privacy policy applies. The links contain a campaign identifier so we can see in App Store Connect how many downloads come from the website. We only receive aggregated figures from Apple.
+- **Your rights:** You have the rights of access, rectification, erasure, restriction of processing and objection, and the right to lodge a complaint with a supervisory authority, in Baden-Württemberg the Landesbeauftragter für den Datenschutz und die Informationsfreiheit. Contact us at: horizonlabs.dev@gmail.com
+
+## 9. Changes
 We reserve the right to update this privacy policy. The current version is always available in the app and at https://horizonlabsdev.github.io/MoniCal/privacy.
